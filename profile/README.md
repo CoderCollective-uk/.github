@@ -19,6 +19,8 @@ working on. Later if you feel you can contribute, you can.
 
 CoderCollective.uk is the evolution of the GlasgowCoderCollective which was founded in 2016-17.
 
+[https://github.com/GlasgowCoderCollective](https://github.com/GlasgowCoderCollective)
+
 Notable and founding members of the GlasgowCoderCollective include:
 
 * Tracy Norman
