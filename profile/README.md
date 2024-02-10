@@ -1,1 +1,1 @@
-![](/home/david/PycharmProjects/codercollective/.github/profile/assets/logo-nobg.svg)
+![](https://raw.githubusercontent.com/CoderCollective-uk/.github/main/profile/assets/logo-nobg.svg)
